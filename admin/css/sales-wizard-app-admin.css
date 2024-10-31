@@ -1,0 +1,20 @@
+
+.table-th-heading h4{
+	font-size: 26px;
+	margin-bottom: 25px;
+}
+.hidden-el{
+	display: none
+}
+.menu-icon-sales_wizard_report img{
+	width: 24px;
+}
+#adminmenu .menu-icon-sales_wizard_report .wp-menu-image{
+	margin-top: -5px !important
+}
+.salewizard-logo {
+	margin-top: 20px
+}
+.salewizard-logo img{
+	max-width: 250px
+}
